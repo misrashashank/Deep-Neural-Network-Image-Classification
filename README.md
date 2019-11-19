@@ -34,3 +34,10 @@ Model used - VGG16
 ### 3. Transfer Learning
 Extracted features from a trained model on images.
 Trained it and used for predictions.
+
+## Sources
+### 1. Dataset - cs.toronto.edu/
+URL: https://www.cs.toronto.edu/~kriz/cifar.html
+
+### 2. Linkedin Learning  
+Course: Deep Learning - Image Recognition
