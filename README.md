@@ -1,4 +1,4 @@
-### Deep-Neural-Network-Image-Classification
+# Deep-Neural-Network-Image-Classification
 
 This project aims to build a smart system which could classify new images into a set of categories.
 All the 3 types of systems are built on the concept of deep neural networks to train and optimize themselves.
